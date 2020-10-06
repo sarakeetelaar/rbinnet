@@ -15,3 +15,7 @@ American Statistical Association, 109(506):828-846, 2014) is used for edge
 screening and the SSVS approach of George and McCulloch (Journal of the 
 American Statistical Association, 88(423):881-889, 1993) is used for 
 structure selection.
+
+You can install the development version from GitHub with:
+# install.packages("devtools")
+devtools::install_github(“MaartenMarsman/rbinnet”)
