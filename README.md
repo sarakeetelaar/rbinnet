@@ -3,11 +3,11 @@ Bayesian Edge Screening and Structure Selection for the Ising Model
 
 Bayesian edge screening and structure selection for the Ising 
 model using continuous spike-and-slab prior distributions. A mixture of 
-two normal prior distributions are stipulated on the interaction effects to
+two normal prior distributions is stipulated on the interaction effects to
 model edge inclusion and exclusion. A standard normal prior is stipulated 
 on the main effects. Hyperparameters for the normal mixture are 
 automatically determined by fixing the type-1 error. The details of this 
-procedure can be found in Marsman, Huth, Waldorp, and Ntzoufras (2020). The prior 
+procedure can be found in Marsman, Huth, Waldorp, and Ntzoufras (https://psyarxiv.com/hgcz6/). The prior 
 distribution on the structures (configurations of edges) is either uniform,
 or uniform on structure complexity (Beta(1,1)-Binomial). The EM variable 
 selection approach of Ro"\U+010D"kov"\U+00E1" and George (Journal of the 
