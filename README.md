@@ -7,7 +7,7 @@ two normal prior distributions are stipulated on the interaction effects to
 model edge inclusion and exclusion. A standard normal prior is stipulated 
 on the main effects. Hyperparameters for the normal mixture are 
 automatically determined by fixing the type-1 error. The details of this 
-procedure can be found in Marsman, Huth and Ntzoufras (2020). The prior 
+procedure can be found in Marsman, Huth, Waldorp, and Ntzoufras (2020). The prior 
 distribution on the structures (configurations of edges) is either uniform,
 or uniform on structure complexity (Beta(1,1)-Binomial). The EM variable 
 selection approach of Ro"\U+010D"kov"\U+00E1" and George (Journal of the 
